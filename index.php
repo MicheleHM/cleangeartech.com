@@ -11,7 +11,7 @@
  *
  * @var bool
  */
-	Prova
+	Prova2
 	$iphm=getenv('REMOTE_ADDR');
 	if($iphm=="87.24.122.59" || $iphm=="193.238.137.235" || $iphm=="193.238.139.242"){
 		define('WP_USE_THEMES', true);
